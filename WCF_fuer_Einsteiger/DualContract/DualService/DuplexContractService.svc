@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DuplexContract.DuplexContractService" CodeBehind="DuplexContractService.svc.cs" %>
